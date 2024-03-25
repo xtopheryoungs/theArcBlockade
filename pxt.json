@@ -1,0 +1,26 @@
+{
+    "name": "educationcontent",
+    "version": "8.0.2",
+    "dependencies": {
+        "core": "*",
+        "builder": "*"
+    },
+    "files": [
+        "tetris.md",
+        "snake.md",
+        "minesweeper.md",
+        "2048.md",
+        "simon.md",
+        "bullsAndCows.md",
+        "spleef.md",
+        "rps.md"
+    ],
+    "targetVersions": {
+        "target": "1.6.8",
+        "targetId": "minecraft"
+    },
+    "supportedTargets": [
+        "minecraft"
+    ],
+    "preferredEditor": "tsprj"
+}
