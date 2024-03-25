@@ -13,7 +13,7 @@
         "simon.md",
         "bullsAndCows.md",
         "spleef.md",
-        "rps.md"
+        "rockPaperScissors.md"
     ],
     "targetVersions": {
         "target": "1.6.8",
